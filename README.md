@@ -3,7 +3,6 @@
 - 🔭 Aluna da Universidade de Brasilia
 - 🌱 Estudante de Engenharia de Software
 - 📫 Contatos: larissagomes2silva@gmail.com
-- 😄 Pronomes: Ela/Dela
 <div align="center">
   <a href="https://github.com/larigs">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=larigs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
